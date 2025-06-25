@@ -18,10 +18,11 @@ h1 {
     text-align: center;
 }
 
-#projectlinks {
-    color: #FF4F0F;
+#projectlinks a {
+    color: #FF4F0f;
     font-family: Ubuntu;
     font-weight: 600;
     margin-top: 10px;
     margin-bottom: 10px;
+    
 }
